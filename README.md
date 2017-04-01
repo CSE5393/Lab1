@@ -1,4 +1,4 @@
-# MachineLearningLabs
+# Lab1
 ## Members
 * Preston Tighe
 * Arturo Laguna
